@@ -5,3 +5,5 @@ In this project, we will predict whether a person has Heart disease or not.
 For this project we will use the **Heart Disease UCI** *dataset* from [kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 My project has been inspired by [Siddhardhan's](https://youtu.be/qmqCYC-MBQo) work
+
+Accuracy of ***86%*** is achieved in this model
